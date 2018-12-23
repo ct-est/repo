@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1545587989749,
+    "timestamp": 1545588754545,
     "version": 18,
     "name": "c-t-est",
     "icon": "default-repo-icon.png",
@@ -22,7 +22,15 @@
       "added": 1545584076090,
       "icon": "androdns.android.leetdreams.ch.androdns.6.png",
       "packageName": "androdns.android.leetdreams.ch.androdns",
-      "lastUpdated": 1545584100624
+      "lastUpdated": 1545584100624,
+      "localized": {
+        "en": {
+          "phoneScreenshots": [
+            "androdns1.png",
+            "androdns2.png"
+          ]
+        }
+      }
     },
     {
       "suggestedVersionCode": "20170425",

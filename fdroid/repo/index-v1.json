@@ -1,0 +1,209 @@
+{
+  "repo": {
+    "timestamp": 1545584248221,
+    "version": 18,
+    "name": "c-t-est",
+    "icon": "default-repo-icon.png",
+    "address": "https://raw.githubusercontent.com/ct-est/repo/master/fdroid/repo",
+    "description": "Test-Repo f\u00fcr c't",
+    "mirrors": [
+      "https://raw.githubusercontent.com/ct-est/repo/master/fdroid/repo/repo"
+    ]
+  },
+  "requests": {
+    "install": [],
+    "uninstall": []
+  },
+  "apps": [
+    {
+      "suggestedVersionCode": "6",
+      "license": "Unknown",
+      "name": "AndroDNS",
+      "added": 1545584076090,
+      "icon": "androdns.android.leetdreams.ch.androdns.6.png",
+      "packageName": "androdns.android.leetdreams.ch.androdns",
+      "lastUpdated": 1545584100624
+    },
+    {
+      "suggestedVersionCode": "20170425",
+      "license": "Unknown",
+      "name": "APKMirror",
+      "added": 1545584091405,
+      "icon": "cf.vojtechh.apkmirror.20170425.png",
+      "packageName": "cf.vojtechh.apkmirror",
+      "lastUpdated": 1545584105124
+    },
+    {
+      "suggestedVersionCode": "31",
+      "license": "Unknown",
+      "name": "Virtual Hosts",
+      "added": 1545584110802,
+      "icon": "com.github.xfalcon.vhosts.31.png",
+      "packageName": "com.github.xfalcon.vhosts",
+      "lastUpdated": 1545584124505
+    },
+    {
+      "suggestedVersionCode": "171201010",
+      "license": "Unknown",
+      "name": "\u4e0a\u884c\u901f",
+      "added": 1545584106249,
+      "icon": "com.by_syk.netupdown.171201010.png",
+      "packageName": "com.by_syk.netupdown",
+      "lastUpdated": 1545584119123
+    }
+  ],
+  "packages": {
+    "androdns.android.leetdreams.ch.androdns": [
+      {
+        "added": 1545584100624,
+        "apkName": "androdns.android.leetdreams.ch.androdns_1.4_umonOIe.apk",
+        "hash": "1e0157930e5a5819cf54b89d34f08c5e6d61cf7cb6fa5051347946a851548ea0",
+        "hashType": "sha256",
+        "minSdkVersion": "15",
+        "packageName": "androdns.android.leetdreams.ch.androdns",
+        "sig": "bad7b9e508ca4552ba7a5f5c297000e5",
+        "size": 1886480,
+        "targetSdkVersion": "25",
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ]
+        ],
+        "versionCode": 6,
+        "versionName": "1.4"
+      }
+    ],
+    "cf.vojtechh.apkmirror": [
+      {
+        "added": 1545584105124,
+        "apkName": "cf.vojtechh.apkmirror_3.3.apk",
+        "hash": "122e6190e56567b45bb4fd37e48f86a4ed7c6d80bdf137663721e8a4161276d8",
+        "hashType": "sha256",
+        "minSdkVersion": "21",
+        "packageName": "cf.vojtechh.apkmirror",
+        "sig": "e5c6182c944049130381100be27d679b",
+        "size": 1425729,
+        "targetSdkVersion": "25",
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.NFC",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            null
+          ]
+        ],
+        "versionCode": 20170425,
+        "versionName": "3.3"
+      }
+    ],
+    "com.by_syk.netupdown": [
+      {
+        "added": 1545584119123,
+        "apkName": "com.by_syk.netupdown_1.1.4.apk",
+        "hash": "0bdae850b8d6560a583a7907d433c1b18f986795e9fba94a0373ffc286dc064b",
+        "hashType": "sha256",
+        "minSdkVersion": "8",
+        "packageName": "com.by_syk.netupdown",
+        "sig": "55b40f9df19cf8eddbc6af0f78e0d134",
+        "size": 98263,
+        "targetSdkVersion": "25",
+        "uses-permission": [
+          [
+            "android.permission.SYSTEM_ALERT_WINDOW",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ]
+        ],
+        "versionCode": 171201010,
+        "versionName": "1.1.4"
+      }
+    ],
+    "com.github.xfalcon.vhosts": [
+      {
+        "added": 1545584124505,
+        "apkName": "com.github.xfalcon.vhosts_2.0.2.apk",
+        "hash": "06927180ddb82e540512f7a037d4644eacd767c9c1731917e92cee9e8a35a93d",
+        "hashType": "sha256",
+        "minSdkVersion": "19",
+        "packageName": "com.github.xfalcon.vhosts",
+        "sig": "61d10966445bf087abb229c2bbcc0d73",
+        "size": 1181370,
+        "targetSdkVersion": "28",
+        "uses-permission": [
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.ACCESS_WIFI_STATE",
+            null
+          ],
+          [
+            "android.permission.CHANGE_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.CHANGE_WIFI_STATE",
+            null
+          ],
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.ACCESS_FINE_LOCATION",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "android.permission.BLUETOOTH",
+            null
+          ],
+          [
+            "android.permission.WRITE_SETTINGS",
+            null
+          ],
+          [
+            "android.permission.MOUNT_UNMOUNT_FILESYSTEMS",
+            null
+          ],
+          [
+            "com.android.vending.BILLING",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ]
+        ],
+        "versionCode": 31,
+        "versionName": "2.0.2"
+      }
+    ]
+  }
+}

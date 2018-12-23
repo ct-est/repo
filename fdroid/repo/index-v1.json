@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1545588754545,
+    "timestamp": 1545588828595,
     "version": 18,
     "name": "c-t-est",
     "icon": "default-repo-icon.png",
@@ -28,7 +28,8 @@
           "phoneScreenshots": [
             "androdns1.png",
             "androdns2.png"
-          ]
+          ],
+          "featureGraphic": "androdns_feature.png"
         }
       }
     },

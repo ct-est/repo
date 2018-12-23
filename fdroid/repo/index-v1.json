@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1545590048615,
+    "timestamp": 1545590193593,
     "version": 18,
     "name": "c-t-est",
     "icon": "default-repo-icon.png",
@@ -40,6 +40,10 @@
       }
     },
     {
+      "authorName": "Vojt\u011bch Ho\u0159\u00e1nek",
+      "categories": [
+        "Internet"
+      ],
       "suggestedVersionCode": "20170425",
       "license": "Unknown",
       "name": "APKMirror",
@@ -49,6 +53,8 @@
       "lastUpdated": 1545584105124,
       "localized": {
         "en": {
+          "summary": "APKMirror client",
+          "description": "<p><em>APKMirror</em> is an unofficial apkmirror client/web application. It is quick loading (for the most part), supports custom download managers, and has clean material design.</p>",
           "phoneScreenshots": [
             "apkmirror1.png",
             "apkmirror2.png"

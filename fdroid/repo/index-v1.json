@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1545588828595,
+    "timestamp": 1545588846576,
     "version": 18,
     "name": "c-t-est",
     "icon": "default-repo-icon.png",
@@ -16,6 +16,10 @@
   },
   "apps": [
     {
+      "authorName": "Gryphius",
+      "categories": [
+        "Internet"
+      ],
       "suggestedVersionCode": "6",
       "license": "Unknown",
       "name": "AndroDNS",
@@ -25,11 +29,13 @@
       "lastUpdated": 1545584100624,
       "localized": {
         "en": {
+          "summary": "Android DNS Client",
+          "featureGraphic": "androdns_feature.png",
           "phoneScreenshots": [
             "androdns1.png",
             "androdns2.png"
           ],
-          "featureGraphic": "androdns_feature.png"
+          "description": "<p><em>AndroDNS</em> allows you to perform customized DNS queries directly from your mobile phone. In contrast to most other DNS clients, it does not impose restrictions on what you can query. Features:</p>\r\n<p>&nbsp;</p>\r\n<ul>\r\n<li>Select recursive or authoritative server to query (default: system resolver)</li>\r\n<li>Specify any question type (not just the most common A/AAAA/MX &hellip;), you can even enter the type ID for new/experimental question types</li>\r\n<li>Supports IN/CH/HS query class</li>\r\n<li>Set question flags</li>\r\n<li>DNSSEC aware (request / show RRSIGs ) - but it does not validate</li>\r\n</ul>"
         }
       }
     },
